@@ -1,7 +1,10 @@
 package org.example;
 
-public class Cofrade {
+import java.util.Locale;
 
+public class Cofrade {
+    String nombre;
+    Locale detalles;
     
 
 
